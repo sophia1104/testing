@@ -1,0 +1,19 @@
+{
+  "name": "day01",
+  "version": "1.0.0",
+  "description": "第一天练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophia1104/testing.git"
+  },
+  "author": "Sophia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophia1104/testing/issues"
+  },
+  "homepage": "https://github.com/sophia1104/testing#readme"
+}
